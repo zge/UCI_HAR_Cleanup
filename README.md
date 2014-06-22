@@ -17,7 +17,7 @@ This script does the following tasks:
   - Second, they will be load in by `library(pkg)`
 * Set up current working directory
   - In Windows, it will be *C:\Users\\{username}\Downloads*, e.g. *C:\Users\zge\Downloads* on my computer
-  - In Linux/iOS, it will be */home/{username}/Downloads*, e.g. */home/zge/Downloads* on my computer 
+  - In Linux/OS X, it will be */home/{username}/Downloads*, e.g. */home/zge/Downloads* on my computer 
   - If the working directory does not exist on your computer, it will be automatically created
   - Then, it will update your current working directory to the one just set up
 
